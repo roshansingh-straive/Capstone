@@ -22,3 +22,8 @@ This submission packages the completed payment-profitability model and root-caus
 2. Run `Task4_SQL_Scripts/06_task4_validation.sql` and confirm the documented duplicate, reconciliation, and integrity checks pass.
 3. Run the Task 5 scripts in numeric order after the Task 4 profitability view exists.
 4. Review the PDF and spreadsheet deliverables against the SQL outputs.
+
+## Peer review evidence
+
+- Automated pre-submission review completed locally: artefact inventory, SQL header review, staged diff whitespace check, and secret scan.
+- Human peer approval is intentionally not claimed here; the GitHub Pull Request is the review record and should be approved by a repository collaborator before merge.
